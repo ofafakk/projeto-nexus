@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  DOCKER_IMAGE: ofafakk/projeto-nexus
+  DOCKER_IMAGE: ofafakkk/projeto-nexus
 
 jobs:
   build-and-deploy:
