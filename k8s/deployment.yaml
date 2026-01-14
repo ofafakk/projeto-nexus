@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: site
-        image: fabriciobotelho35@gmail.com/projeto-nexus:latest
+        image: ofafakk/projeto-nexus:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
